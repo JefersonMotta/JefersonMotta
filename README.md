@@ -138,6 +138,6 @@ ERP • WMS • E-commerce
 </div>
 <div align="center">
 
-👀![Profile Visits](https://komarev.com/ghpvc/?username=JefersonMotta&color=02569B&style=for-the-badge&label=VISITANTES)
+![Profile Visits](https://komarev.com/ghpvc/?username=JefersonMotta&color=02569B&style=for-the-badge&label=VISITANTES)
 
 </div>
