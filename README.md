@@ -48,7 +48,7 @@ ERP • WMS • E-commerce
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,swift,java&perline=8" alt="Mobile Dev"/>
   <img src="https://skillicons.dev/icons?i=html,css,js&perline=8" alt="Web Dev"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,mysql,postgresql&perline=8" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql&perline=8" alt="Backend"/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&perline=8" alt="Tools"/>
 </div>
 <div align="center">
@@ -70,16 +70,6 @@ ERP • WMS • E-commerce
 
 ---
 
-## 👀 Visitas no Perfil
-
-<div align="center">
-
-![Profile Visits](https://komarev.com/ghpvc/?username=JefersonMotta&color=02569B&style=for-the-badge&label=VISITANTES)
-
-</div>
-
----
-
 ## 🚀 Principais Projetos
 
 <div align="center">
@@ -94,8 +84,7 @@ ERP • WMS • E-commerce
       <p>
         <img src="https://img.shields.io/badge/Flutter-Web%20%26%20Mobile-02569B?style=flat&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/GetX-Management-02d7f7?style=flat&logoColor=black" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-Backend-02569B?style=flat&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-Database-02d7f7?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL Server-Database-02d7f7?style=flat&logo=postgresql&logoColor=white" />
       </p>
       <p>Plataforma empresarial completa para gestão de recursos, WMS e processos corporativos.</p>
     </td>
@@ -132,8 +121,6 @@ ERP • WMS • E-commerce
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-motta-5a61911b1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JefersonMotta)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JefersonMotta)
@@ -144,8 +131,13 @@ ERP • WMS • E-commerce
 
 <div align="center">
 
-### 💝 Se gostou, considere dar uma ⭐ nos meus projetos!
+### Se gostou, considere dar uma ⭐ nos meus projetos!
 
 **[⬆ Voltar ao topo](#-bem-vindoao-meu-perfil)**
+
+</div>
+<div align="center">
+
+👀![Profile Visits](https://komarev.com/ghpvc/?username=JefersonMotta&color=02569B&style=for-the-badge&label=VISITANTES)
 
 </div>
